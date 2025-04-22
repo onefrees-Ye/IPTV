@@ -298,9 +298,10 @@ docker run -d -p 8000:8000 guovern/iptv-api
 ## 更新日志
 
 [更新日志](./CHANGELOG.md)
+## 💡 赞助声明
 
-💡 赞助声明
-本项目由 VTEXS 的「开源项目免费 VPS 计划」提供算力支持。
+本项目由 [VTEXS](https://console.vtexs.com/?affid=1513) 的「开源项目免费 VPS 计划」提供算力支持。  
 感谢 VTEXS 对开源社区的支持！
 
-🎉 快来体验不一样的 BBR 管理工具吧！ 🎉
+
+🎉 **快来体验不一样的 BBR 管理工具吧！** 🎉  
